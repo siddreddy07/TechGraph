@@ -1,5 +1,17 @@
 # TechGraph
 
+[Live Demo](https://techgraph.netlify.app/)
+
+[![TechGraph Demo](https://res.cloudinary.com/dtgf2auzt/image/upload/v1787165649/image_2026-08-20_002409099_cani5i.png)](https://res.cloudinary.com/dtgf2auzt/video/upload/v1787165579/TechGraph_keicbi.mp4)
+
+## Web App Screenshots
+
+![Screenshot 1](https://res.cloudinary.com/dtgf2auzt/image/upload/v1787165963/1_wre9qc.png)
+
+![Screenshot 2](https://res.cloudinary.com/dtgf2auzt/image/upload/v1787165979/Screenshot_2026-08-20_002616_a9q8ll.png)
+
+![Screenshot 3](https://res.cloudinary.com/dtgf2auzt/image/upload/v1787165980/Screenshot_2026-08-20_002904_dtxbhh.png)
+
 Ever wonder what connects a developer to a technology they've never directly used? Or how two completely different tools end up in the same project?
 
 TechGraph maps those connections. It's a graph-based tool that links **developers**, **projects**, and **technologies** together — so you can search a tech and see who uses it, explore a developer's full stack, or find the shortest path between any two technologies through shared projects.

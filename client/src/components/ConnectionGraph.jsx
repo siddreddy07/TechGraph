@@ -86,9 +86,9 @@ function ConnectionGraph() {
         </p>
       )}
 
-      <div className="mt-4 h-64 w-full rounded-md border border-dashed border-gray-200">
+      <div className="relative mt-4 h-64 w-full overflow-hidden rounded-md border border-dashed border-gray-200">
         {nodes.length === 0 && !loading && (
-          <div className="flex h-full flex-col items-center justify-center gap-2 text-gray-300">
+          <div className="absolute inset-0 z-10 flex flex-col items-center justify-center gap-2 text-gray-300">
             <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M7.5 21L3 16.5m0 0L7.5 12M3 16.5h13.5m0-13.5L21 7.5m0 0L16.5 12M21 7.5H7.5" />
             </svg>
