@@ -1,7 +1,5 @@
 # TechGraph
 
-Ever wonder what connects a developer to a technology they've never directly used? Or how two completely different tools end up in the same project?
-
 TechGraph maps those connections. It's a graph-based tool that links **developers**, **projects**, and **technologies** together — so you can search a tech and see who uses it, explore a developer's full stack, or find the shortest path between any two technologies through shared projects.
 
 React + Express + [CognoDB](https://cognodb.com) (Neo4j-compatible graph DB).
@@ -150,6 +148,13 @@ cd server && npm run dev    # → http://localhost:8000
 
 # terminal 2
 cd client && npm run dev    # → http://localhost:5173
+```
+
+To run only the frontend locally:
+
+```bash
+cd client
+npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) and you're good to go.
